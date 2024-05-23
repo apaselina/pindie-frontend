@@ -1,4 +1,4 @@
-export const BASE_URL = 'http://apollo.nomoredomainswork.ru'
+export const BASE_URL = 'http://apollo.nomoredomainswork.ru/api'
 
 export const endpoints = {
   games: `${BASE_URL}/games`,
